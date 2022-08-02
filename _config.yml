@@ -86,7 +86,6 @@ footer:
       url: "https://instagram.com/"
 
 defaults:
-{% include instagram.html username="spnski" %}
   # _posts
   - scope:
       path: ""
