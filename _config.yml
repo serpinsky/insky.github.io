@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Yuri Serpinsky"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Hello and thanks for visiting! I'm an IT manager in telco, but I'm also into photography and this is my creative log. "
   links:
     - label: "Homepage"
       icon: "fas fa-fw fa-link"
