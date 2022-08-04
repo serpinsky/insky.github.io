@@ -109,3 +109,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  
+  google:
+  tag_manager:
+    container_id:G-CJ4CW4JQ8N
