@@ -16,7 +16,7 @@
 title: YS Creative Log
 email: serpinsky@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- Personal site about photography, creativity and art based on GitHub Pages.
+ Personal site about photography, creativity and art by Yuri Serpinsky.
 twitter_username: serpinsky
 github_username: serpinsky
 minimal_mistakes_skin: default
@@ -75,13 +75,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/serpinsky"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/serpinsky"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/serpinsky_"
 
 defaults:
   # _posts
