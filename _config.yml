@@ -59,17 +59,17 @@ plugins:
 author:
   name   : "Yuri Serpinsky"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hello and thanks for visiting! I'm an IT manager at Telco, but I'm also into photography, and this is a resource about my creative work. I also experiment with github pages and jekyll, trying out different elements of site structure and design."
+  bio    : "Greetings and thank you for stopping by! I serve as an IT manager at Telco, but I also have a passion for photography. This platform showcases my artistic endeavors. I enjoy exploring the possibilities of Github Pages and Jekyll, experimenting with various website components and aesthetics."
   links:
     - label: "Homepage"
       icon: "fas fa-fw fa-link"
-      url: "https://serpinsky.ru"
+      url: "https://serpinsky.art"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/serpinsky"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/spnski"
+      url: "https://instagram.com/serpinsky_"
 
 footer:
   links:
