@@ -6,18 +6,11 @@ categories:
 tags:
   - AI
   - photography
-  - best practice
 ---
 
 Artificial Intelligence (AI) is revolutionizing the photography industry by making tasks faster, more efficient, and more accessible to photographers of all skill levels. From image recognition to automatic editing, AI is changing the way photographers approach their craft and grow their businesses.
 
 <!--more-->
-
-This post has a manual excerpt `<!--more-->` set after the second paragraph. The following YAML Front Matter has also be applied:
-
-```yaml
-excerpt_separator: "<!--more-->"
-```
 
 One of the most exciting applications of AI in photography is image recognition. With the help of AI algorithms, cameras can now identify and categorize images based on their content, making it easier for photographers to sort and organize their work. This saves time and reduces the need for manual labor, freeing up photographers to focus on the creative side of their work.
 
